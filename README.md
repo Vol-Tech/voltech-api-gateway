@@ -1,1 +1,0 @@
-# voltech-api-gateway
